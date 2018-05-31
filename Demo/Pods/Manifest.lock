@@ -1,0 +1,16 @@
+PODS:
+  - XHSegmentedView (1.0.0)
+
+DEPENDENCIES:
+  - XHSegmentedView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - XHSegmentedView
+
+SPEC CHECKSUMS:
+  XHSegmentedView: bc5e77519289f8e5202831edee8caf2e903b7ef0
+
+PODFILE CHECKSUM: 79fedc9c392274d52a8df523e1e941579654f602
+
+COCOAPODS: 1.5.2
