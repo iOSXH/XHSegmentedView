@@ -8,5 +8,5 @@ s.authors = { 'iOSXH' => '1032670387@qq.com' }
 s.source = { :git => "https://github.com/iOSXH/XHSegmentedView.git", :tag => "1.0.0"}
 s.requires_arc = true
 s.ios.deployment_target = '6.0'
-s.source_files = "XHSegmentedView", "*.{h,m}"
+s.source_files = "XHSegmentedView/*"
 end
