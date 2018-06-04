@@ -1,9 +1,9 @@
 //
 //  XHSegmentedView.h
-//  Wawaji
+//  xianghui
 //
 //  Created by xianghui on 2018/5/30.
-//  Copyright © 2018年 same. All rights reserved.
+//  Copyright © 2018年 xianghui. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
@@ -37,6 +37,12 @@
  是否适应标题长度 默认Yes
  */
 @property (nonatomic, assign) BOOL titleWidthAdjust;
+
+
+/**
+ 内容左右间距 默认 0
+ */
+@property (nonatomic, assign) UIEdgeInsets contentInsets;
 
 /**
  标题左右间距 默认 0
